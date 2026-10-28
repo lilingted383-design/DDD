@@ -1,0 +1,6 @@
+{
+  "name": "小學星題庫 - 台灣國小全科目各版本練習系統",
+  "description": "專為台灣國小學童與家長設計，支援108課綱康軒、翰林、南一等版本與各科（國語、數學、自然、社會、英語）篩選生成線上測驗、題庫練習、錯題本、語音朗讀與考卷列印匯出功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
